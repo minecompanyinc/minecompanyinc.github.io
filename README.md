@@ -1,2 +1,1 @@
-# minecompanyinc.github.
-Todo: make it a parody website
+# MineCompany Inc Website
